@@ -1,6 +1,6 @@
 # react_theme_switcher
 
-React Hue Theme Switcher
+React Hue Theme Switcher + Dark/Light Mode 
 
 
 ![](Screenshot1.png)
